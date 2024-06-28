@@ -1,2 +1,1 @@
-# templates
-Template repo
+# holdings-data
